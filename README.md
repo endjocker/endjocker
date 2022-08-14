@@ -5,7 +5,7 @@
 - 🚀 CEO da EndLess Technologies
 - ❤️ www.endlesstecnologia.com
 - ✨ Apaixonado por Tecnologia
-- 📫 RIO DE JANEIRO
+- 📫 Rio de Janeiro, 021
 
 <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
