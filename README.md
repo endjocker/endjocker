@@ -1,6 +1,6 @@
 <b>Olá👋, Me chamo Diego, tenho 23 anos e aqui você vai conhecer um pouquinho de mim:</b>
 
-- 🔭 Hoje trabalho com Programação e Designer
+- 🔭 Trabalho com Programação e Designer
 - 🌱 Estou estudando novas linguagens
 - 🚀 CEO da EndLess Technologies
 - ❤️ www.endlesstecnologia.com
