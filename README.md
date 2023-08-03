@@ -1,4 +1,4 @@
-<b>Olá👋, Me chamo Diego, tenho 23 anos e aqui você vai conhecer um pouquinho de mim:</b>
+<b>Olá👋, Me chamo Diego, tenho 24 anos e aqui você vai conhecer um pouquinho de mim:</b>
 
 - 🔭 Trabalho com Programação e Designer
 - 🌱 Estou estudando novas linguagens
