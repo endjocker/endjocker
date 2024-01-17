@@ -3,7 +3,7 @@
 - 🔭 Trabalho com Programação e Designer
 - 🌱 Estou estudando novas linguagens
 - 🚀 CEO da EndLess Technologies
-- ❤️ www.endlesstecnologia.com
+- ❤️ www.endlesstecnologia.com.br
 - ✨ Apaixonado por Tecnologia
 - 📫 Rio de Janeiro, 021
 
