@@ -22,7 +22,6 @@
 ![image](https://github.com/endjocker/endjocker/assets/36162039/a82cde80-fdfb-45cb-8038-6516c980820f)
 ![image](https://github.com/endjocker/endjocker/assets/36162039/4a7c9d37-e529-48f3-b1d5-0d13b5b30a7f)
 ![image](https://github.com/endjocker/endjocker/assets/36162039/02d6ff92-507b-4036-b102-1c959df12265)
-![image](https://github.com/endjocker/endjocker/assets/36162039/459c256d-cbfe-4d77-83d3-d3f073cea2ea)
 
 
 
