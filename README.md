@@ -1,11 +1,11 @@
-<b>Olá👋, Me chamo Diego, tenho 24 anos e aqui você vai conhecer um pouquinho de mim:</b>
+<b>Hello👋, My name is Diego, I'm 25 years old and here you'll get to know a little about me:</b>
 
-- 🔭 Trabalho com Programação e Designer
-- 🌱 Estou estudando novas linguagens
-- 🚀 CEO da EndLess Technologies
-- ❤️ www.endlesstecnologia.com.br
-- ✨ Apaixonado por Tecnologia
-- 📫 Rio de Janeiro, 021
+🔭 Work with Programming and Designer
+🌱 I'm studying new languages
+🚀 CEO of EndLess Technologies
+❤️ www.endlesstecnologia.com.br
+✨ Passionate about Technology
+📫 Rio de Janeiro, 021
 
 <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -15,6 +15,6 @@
   <a href = "mailto:diegobritto50@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/diego-b-b462ba135/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+<img href:"https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif">
  
 </div>
